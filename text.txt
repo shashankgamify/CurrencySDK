@@ -1,5 +1,5 @@
 {
-    "GAME_TITLE": "Steampunk Reloaded",
+    "GAME_TITLE": "Steampunk NotReloaded",
     "wa.exception.betSizeIdInvalid": "Invalid Bet Size ID",
     "wa.exception.betLevelIdInvalid": "Invalid Bet Level ID",
     "wa.exception.alreadyInFreeSpin": "Already in Free Spins",
